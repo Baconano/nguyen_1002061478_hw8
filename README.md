@@ -1,5 +1,5 @@
 ## Overview
-This project implements the **Expectation Maximization (EM)** algorithm for Part-of-Speech (POS) tagging using the Wall Street Journal (WSJ) dataset[cite: 9, 12]. [cite_start]The implementation includes data preprocessing, parameter initialization, the Forward-Backward algorithm (E-step), and parameter updates (M-step)[cite: 16, 17, 18, 19].
+This project implements the **Expectation Maximization (EM)** algorithm for Part-of-Speech (POS) tagging using the Wall Street Journal (WSJ) dataset[cite: 9, 12]. The implementation includes data preprocessing, parameter initialization, the Forward-Backward algorithm (E-step), and parameter updates (M-step).
 
 ## Deliverables 
 * `nguyen_1002061478_hw8.py`: Python source code implementing the EM algorithm.
